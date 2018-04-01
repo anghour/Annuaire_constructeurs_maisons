@@ -391,7 +391,7 @@ const_dept.tail(20).plot.bar()
 
 
 ```python
-# Les 10 départements où sont installés le plus de constructeurs
+# Les 10 départements où sont insttalés le plus de constructeurs
 const_dept.sort_values(ascending=False).head(10)
 ```
 
